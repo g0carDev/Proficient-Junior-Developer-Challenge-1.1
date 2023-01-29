@@ -4,4 +4,4 @@
 
 ### `yarn dev` or `npm run dev`
 
-[Link to Demo](https://wait.vercel.app/)
+[Link to Demo](https://g0c4r-proficient-challenge.vercel.app/)
